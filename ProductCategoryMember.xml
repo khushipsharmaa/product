@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><entity-engine-xml> 
+
+<ProductCategoryMember fromDate="2025-06-19 20:03:30.0" productCategoryId="MSports" productId="MS-1"/>
+<ProductCategoryMember fromDate="2025-06-19 20:03:30.0" productCategoryId="MSports" productId="MS-2"/>
+<ProductCategoryMember fromDate="2025-06-19 20:03:30.0" productCategoryId="MFormal" productId="MF-1"/>
+<ProductCategoryMember fromDate="2025-06-19 20:03:30.0" productCategoryId="MFormal" productId="MF-2"/>
+<ProductCategoryMember fromDate="2025-06-19 20:03:30.0" productCategoryId="MParty" productId="MP-1"/>
+<ProductCategoryMember fromDate="2025-06-19 20:03:30.0" productCategoryId="MParty" productId="MP-2"/>
+<ProductCategoryMember fromDate="2025-06-19 20:03:30.0" productCategoryId="WSports" productId="WS-1"/>
+<ProductCategoryMember fromDate="2025-06-19 20:03:30.0" productCategoryId="WSports" productId="WS-2"/>
+<ProductCategoryMember fromDate="2025-06-19 20:03:30.0" productCategoryId="WFormal" productId="WF-1"/>
+<ProductCategoryMember fromDate="2025-06-19 20:03:30.0" productCategoryId="WFormal" productId="WF-2"/>
+<ProductCategoryMember fromDate="2025-06-19 20:03:30.0" productCategoryId="WParty" productId="WP-1"/>
+<ProductCategoryMember fromDate="2025-06-19 20:03:30.0" productCategoryId="WParty" productId="WP-2"/>
+<ProductCategoryMember fromDate="2025-06-19 20:13:58.0" productCategoryId="Children" productId="C-1"/>
+<ProductCategoryMember fromDate="2025-06-19 20:13:58.0" productCategoryId="Children" productId="C-2"/>
+<ProductCategoryMember fromDate="2025-06-20 10:17:55.0" productCategoryId="Promotion" productId="MS-1"/>
+<ProductCategoryMember fromDate="2025-06-20 10:17:55.0" productCategoryId="Promotion" productId="MF-2"/>
+<ProductCategoryMember fromDate="2025-06-20 10:17:55.0" productCategoryId="Promotion" productId="MP-1"/>
+<ProductCategoryMember fromDate="2025-06-20 10:17:55.0" productCategoryId="Promotion" productId="WS-1"/>
+<ProductCategoryMember fromDate="2025-06-20 10:17:55.0" productCategoryId="Promotion" productId="WF-1"/>
+<ProductCategoryMember fromDate="2025-06-20 10:17:55.0" productCategoryId="Promotion" productId="WP-1"/>
+<ProductCategoryMember fromDate="2025-06-20 10:17:55.0" productCategoryId="Promotion" productId="C-1"/>
+<ProductCategoryMember fromDate="2025-06-20 10:17:55.0" productCategoryId="Promotion" productId="C-2"/>
+
+</entity-engine-xml>
