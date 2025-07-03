@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><entity-engine-xml>
+
+<ProdCatalogCategory fromDate="2025-06-19 17:30:03.0" prodCatalogCategoryTypeId="PCCT_BROWSE_ROOT" prodCatalogId="10010" productCategoryId="Men"/>
+<ProdCatalogCategory fromDate="2025-06-19 17:30:03.0" prodCatalogCategoryTypeId="PCCT_BROWSE_ROOT" prodCatalogId="10010" productCategoryId="Women"/>
+<ProdCatalogCategory fromDate="2025-06-20 10:07:30.0" prodCatalogCategoryTypeId="PCCT_PROMOTIONS" prodCatalogId="10010" productCategoryId="Promotion"/>
+
+</entity-engine-xml>
