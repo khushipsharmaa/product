@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><entity-engine-xml>
+
+<ProdCatalogCategoryType description="Promotions (One)" prodCatalogCategoryTypeId="PCCT_PROMOTIONS"/>
+<ProdCatalogCategoryType description="Browse Root (One)" prodCatalogCategoryTypeId="PCCT_BROWSE_ROOT"/>
+
+</entity-engine-xml>
