@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><entity-engine-xml>
+
+<ProductFeature description="size of shoes is 2" productFeatureId="2" productFeatureTypeId="SIZE"/> 
+<ProductFeature description="size of shoes is 3" productFeatureId="3" productFeatureTypeId="SIZE"/>
+<ProductFeature description="size of shoes is 4" productFeatureId="4" productFeatureTypeId="SIZE"/>
+<ProductFeature description="size of shoes is 5" productFeatureId="5" productFeatureTypeId="SIZE"/>
+<ProductFeature description="size of shoes is 7" productFeatureId="7" productFeatureTypeId="SIZE"/>
+<ProductFeature description="size of shoes is 8" productFeatureId="8" productFeatureTypeId="SIZE"/>
+<ProductFeature description="size of shoes is 9" productFeatureId="9" productFeatureTypeId="SIZE"/>
+<ProductFeature description="size of shoes is 10" productFeatureId="10" productFeatureTypeId="SIZE"/>
+<ProductFeature description="color of shoes is red" productFeatureId="RED" productFeatureTypeId="COLOR"/>
+<ProductFeature description="color of shoes is black" productFeatureId="BLACK" productFeatureTypeId="COLOR"/>
+<ProductFeature description="color of shoes is white" productFeatureId="WHITE" productFeatureTypeId="COLOR"/>
+<ProductFeature description="color of shoes is brown" productFeatureId="BROWN" productFeatureTypeId="COLOR"/>
+
+</entity-engine-xml>
