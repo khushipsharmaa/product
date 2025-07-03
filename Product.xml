@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><entity-engine-xml>
+
+<Product productId="MS-1" productTypeId="FINISHED_GOOD"/>
+<Product productId="MS-2" productTypeId="FINISHED_GOOD"/>
+<Product productId="MF-1" productTypeId="FINISHED_GOOD"/>
+<Product productId="MF-2" productTypeId="FINISHED_GOOD"/>
+<Product productId="MP-1" productTypeId="FINISHED_GOOD"/>
+<Product productId="MP-2" productTypeId="FINISHED_GOOD"/>
+<Product productId="WS-1" productTypeId="FINISHED_GOOD"/>
+<Product productId="WS-2" productTypeId="FINISHED_GOOD"/>
+<Product productId="WF-1" productTypeId="FINISHED_GOOD"/>
+<Product productId="WF-2" productTypeId="FINISHED_GOOD"/>
+<Product productId="WP-1" productTypeId="FINISHED_GOOD"/>
+<Product productId="WP-2" productTypeId="FINISHED_GOOD"/> 
+<Product productId="C-1" productTypeId="FINISHED_GOOD"/>
+<Product productId="C-2" productTypeId="FINISHED_GOOD"/>
+
+</entity-engine-xml>
