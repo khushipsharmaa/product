@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><entity-engine-xml>
+
+<ProductCategory categoryName="Men" productCategoryId="Men" productCategoryTypeId="CATALOG_CATEGORY"/>
+<ProductCategory categoryName="Men" primaryParentCategoryId="Men" productCategoryId="MSports" productCategoryTypeId="CATALOG_CATEGORY"/>
+<ProductCategory categoryName="Men" primaryParentCategoryId="Men" productCategoryId="MFormal" productCategoryTypeId="CATALOG_CATEGORY"/>
+<ProductCategory categoryName="Men" primaryParentCategoryId="Men" productCategoryId="MParty" productCategoryTypeId="CATALOG_CATEGORY"/>
+<ProductCategory categoryName="Women" productCategoryId="Women" productCategoryTypeId="CATALOG_CATEGORY"/>
+<ProductCategory categoryName="Women" primaryParentCategoryId="Women" productCategoryId="WSports" productCategoryTypeId="CATALOG_CATEGORY"/>
+<ProductCategory categoryName="Women" primaryParentCategoryId="Women" productCategoryId="WFormal" productCategoryTypeId="CATALOG_CATEGORY"/>
+<ProductCategory categoryName="Women" primaryParentCategoryId="Women" productCategoryId="WParty" productCategoryTypeId="CATALOG_CATEGORY"/>
+<ProductCategory productCategoryId="Children" productCategoryTypeId="CATALOG_CATEGORY"/>
+<ProductCategory productCategoryId="Promotion" productCategoryTypeId="CATALOG_CATEGORY"/>
+
+</entity-engine-xml>
